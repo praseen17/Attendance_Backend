@@ -1,0 +1,14 @@
+# Python WebSocket dependencies
+websockets==11.0.3
+opencv-python==4.8.1.78
+numpy==1.24.3
+face-recognition==1.3.0
+dlib==19.24.2
+
+# Optional dependencies for better performance
+Pillow==10.0.1
+scipy==1.11.3
+
+# Development dependencies
+pytest==7.4.2
+pytest-asyncio==0.21.1
